@@ -113,7 +113,7 @@ print("Sello Final:", sello_final)
 
 ##### Por Favor Completar sus Datos
 
-<u> **Nombre y Apellido:** mmm
+<u> **Nombre y Apellido:** m
 
 <u> **Email:** </u>
 
